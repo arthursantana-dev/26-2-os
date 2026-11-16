@@ -1,0 +1,5 @@
+build/
+build-tsan/
+barbearia
+barbearia-tsan
+tsan.log*
